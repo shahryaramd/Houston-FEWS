@@ -5,13 +5,13 @@ A repository for automation of flood early warning system for Houston
 
 ## Key Components:
 
-* 1.	Nowcast precip from IMERG (0.1˚)
+1.	Satellite based nowcast precipitation from IMERG (0.1˚)
 
-* 2.	Forecast precip from WRF-downscaled GFS precip (0.1˚)
+2.	Forecast precipitation from GFS, downscaled using WRF model to 0.1˚
 
-* 3.	Hydrological Modeling – SWAT model (input forcing from IMERG and WRF)
+3.	Hydrological Modeling – SWAT model (input forcings from IMERG and WRF-based precipitation)
 
-* 4.	HEC RAS 2D Simulation (using boundary conditions from SWAT output and IMERG + WRF precip)
+4.	HEC RAS 2D Simulation (boundary conditions from SWAT output flows and IMERG + WRF precipitation)
 
 ## Details:
 
