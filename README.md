@@ -37,5 +37,5 @@ A repository for automation of flood early warning system for Houston
 
 
 
-For more details, refer to the [documentation] (https://github.com/shahryaramd/HoustonFEWS/blob/master/Documentation-Houston%20Flood%20Inundation%20Forecasting%20System.docx)
+For more details, refer to the [documentation](https://github.com/shahryaramd/HoustonFEWS/blob/master/Documentation-Houston%20Flood%20Inundation%20Forecasting%20System.docx).
 
