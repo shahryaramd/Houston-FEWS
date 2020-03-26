@@ -34,6 +34,7 @@ A repository for automation of flood early warning system for Houston
 
 *	Script automating the SWAT and RAS models along with post-processing the RAS outputs is shared at `HEC_RAS/Automate_SWAT_RAS.py` 
 
+* Projection file (`unsteady2Dhouston.prj`) and rasmap file (`unsteady2Dhouston.rasmap`) are shared in the `HEC_RAS/` folder.
 
 
 
